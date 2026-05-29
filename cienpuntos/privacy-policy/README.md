@@ -14,6 +14,7 @@ Al instalar y utilizar **100 Puntos**, aceptas las prácticas descritas en este 
 
 ---
 
+
 ## 1. Información que recopilamos
 
 ### A. Información Personal
